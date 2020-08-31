@@ -3,3 +3,20 @@ contact_links:
   - name: Rust Programming Language Forum
     url: https://users.rust-lang.org
     about: Please ask and answer questions about Rust here.
+$ smimesign --list-keys
+
+             ID: 0ff455a2708394633e4bb2f88002e3cd80cbd76f
+
+            S/N: a2dfa7e8c9c4d1616f1009c988bb70f
+
+      Algorithm: SHA256-RSA
+
+       Validity: 2017-11-22 00:00:00 +0000 UTC - 2020-11-22 12:00:00 +0000 UTC
+
+         Issuer: CN=DigiCert SHA2 Assured ID CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+
+        Subject: CN=Octocat,O=GitHub\, Inc.,L=San Francisco,ST=California,C=US
+
+         Emails: octocat@github.comhttps://github.com/users/T1ADIPT4/emails/118529402/confirm_verification/86ed8b4b39f77fc4b2b755d72044bca45ebf8ff7?utm_campaign=github-email-verification&utm_content=html&utm_medium=email&utm_source=verification-email
+         
+         https://github.com/users/T1ADIPT4/emails/118529402/confirm_verification/86ed8b4b39f77fc4b2b755d72044bca45ebf8ff7?utm_campaign=github-email-verification&utm_content=html&utm_medium=email&utm_source=verification-email
